@@ -3,5 +3,5 @@ Clustering algorithms like k-means often struggle to classify data containing ou
 
 **How to Run:**
 1. Download Q2_Project.ipynb and open it in Google Colab
-2. Download the file q2_project_data.csv and upload it in the Colab environment
+2. Download the file q2_project_data.csv and upload it to the Colab environment
 3. Hover over "Runtime" in the top bar and click "Run all"
